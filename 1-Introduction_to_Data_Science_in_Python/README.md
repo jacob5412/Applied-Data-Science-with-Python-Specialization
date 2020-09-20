@@ -9,6 +9,9 @@
 | [week 3](#week-3) | Advanced Python Pandas                     |
 | [week 4](#week-4) | Statistical Analysis in Python and Project |
 
+## Week-1
+- [Practice](practice/week1)
+
 ## Week-2
 - [Assignments](assignments/week2)
 
