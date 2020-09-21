@@ -20,3 +20,5 @@
 
 ## Week-4
 - [Assignments](assignments/week4)
+
+## [Course Resources](resources/)
