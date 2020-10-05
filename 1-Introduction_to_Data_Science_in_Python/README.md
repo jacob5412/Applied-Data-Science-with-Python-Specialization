@@ -13,6 +13,7 @@
 - [Practice](practice/week1)
 
 ## Week-2
+- [Practice](practice/week2)
 - [Assignments](assignments/week2)
 
 ## Week-3
