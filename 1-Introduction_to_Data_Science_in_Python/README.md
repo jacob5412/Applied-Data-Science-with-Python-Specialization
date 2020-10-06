@@ -17,6 +17,7 @@
 - [Assignments](assignments/week2)
 
 ## Week-3
+- [Practice](practice/week3)
 - [Assignments](assignments/week3)
 
 ## Week-4
