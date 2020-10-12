@@ -21,6 +21,7 @@
 - [Assignments](assignments/week3)
 
 ## Week-4
+- [Practice](practice/week4)
 - [Assignments](assignments/week4)
 
 ## [Course Resources](resources/)
